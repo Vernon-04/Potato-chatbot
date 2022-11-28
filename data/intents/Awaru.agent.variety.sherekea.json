@@ -1,0 +1,35 @@
+{
+  "id": "4420c579-5ae5-4d8b-88af-1086290554ca",
+  "name": "Awaru.agent.variety.sherekea",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sherekea\n\n-Medium sized plant which produces abundant light purple flowers\n-Tubers are oblong/round and have red skin\n-High number of tubers per plant\n-Good storability \n-Long tuber dormancy\n-Optimal production altitude: 1,800 – 3,000 m\n-Maturity Period: 3.5 – 4 month\n-Yield: 16,000 – 20,000kg per acre\n-High resistant to Late Blight and viruses (PVY and PLRV)\n-Use: boiling, roasting, mashing, chips, crisps"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

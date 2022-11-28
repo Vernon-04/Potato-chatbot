@@ -1,0 +1,35 @@
+{
+  "id": "7fabcea6-f0ed-4f6b-a7f4-1112119620dd",
+  "name": "Awaru.agent.flowers101",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Marigold\nIt has the ability to produce compounds such as α-terthienyl that are allelopathic to many species of plant-parasitic nematodes. They also provide ground cover.\n\nPetunias\nThese pungent, sweet smelling flowers may protect potatoes from certain pests such as leafhoppers.\n\nAlyssum\nAlyssum can create excellent ground cover around your potato plants. They help retain soil moisture and are also excellent at attracting predatory wasps that eat insect pests that might plague potatoes.\n\nClover\nClover is a nitrogen fixing plant. It can also help potatoes by providing good ground cover around the \nplants during the hot weather. When in flower, both white and red clover varieties attract pollinators and other beneficial insects."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

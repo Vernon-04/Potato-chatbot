@@ -1,0 +1,49 @@
+{
+  "id": "82dc0343-02de-4fab-9d65-fcf681e0f0b1",
+  "name": "Awaru.agent.buyseed",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Kari National Potato Centre\t0733834675\t                        Limuru AGRICO\t\t0722206179\t                 Nakuru                                         KISIMA\t\t0722509830    Meru/Kisumu/Nyahururu/Nakuru/Nanyuki\n Oljoroorok A.T.C  0714028024\t\tNyandarua                                    Njabini A.T.C\t\t\t0733834425\t\tNyandarua"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Kari National Potato Centre\t0733834675\t\tLimuru AGRICO\t\t\t\t0722206179\t\tNakuru KISIMA\t\t\t\t0722509830\t\tMeru/Kisumu/Nyahururu/Nakuru/Nanyuki Oljoroorok A.T.C\t\t0714028024\t\tNyandarua Njabini A.T.C\t\t\t0733834425\t\tNyandarua"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

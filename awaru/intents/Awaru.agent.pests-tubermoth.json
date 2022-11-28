@@ -1,0 +1,35 @@
+{
+  "id": "95dd8761-cda7-4767-aae1-b2f390ea703e",
+  "name": "Awaru.agent.pests-tubermoth",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Identification:\n• The moth is small, brownish grey in color with narrow fringed wings\n• The moths are active mainly at dusk\n• The female lays eggs singly or in batches on leaves, stems \u0026 near eye \nbuds on exposed tubers in the field or in the store\n• The caterpillars are up to 12 mm long, whitish to pale greenish in color\nDamages:\n• Caterpillars burrow in the tubers making long irregular tunnels filled with \nexcreta exposing tubers to secondary bacterial and fungal infection\n• These tunnels make the potatoes unfit for human consumption\n• The pest is transferred with the harvested tubers to the potato store, \nwhere it can reproduce and infest other tubers\nControl:\n• Use healthy \u0026 clean seed, since infested seed tubers are the main cause \nof re-infestation in the field \n• Plant as deeply as possible (10cm deep) and ridge at least 3 times during \nthe growing season \n• Ensure compact hilling: very important to prevent moths reaching the \ntubers to lay eggs \n• Store all harvested tubers before dusk to avoid moths laying eggs on them\n• Don’t leave harvested tubers in the field overnight during dry season\n• Spray using appropriate insecticides Dimethoate (AGROTHOATE 40 EC®)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

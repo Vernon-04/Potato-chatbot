@@ -1,0 +1,35 @@
+{
+  "id": "9cc05175-7abf-4e56-89ad-e1b864787b10",
+  "name": "Awaru.agents.pests-aphids",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Identification:\n• Many aphid species attack the potato including the green peach \naphid, potato aphid \u0026 cotton aphid\n• Aphids are mainly found on young shoots and on the underside \nof leaves \nDamages:\n• Feeding by aphids causes irregular curling of young potato \nleaflets and hinders growth of the leaflets\n• Direct damage caused by aphids sucking sap from the plant is \nusually of little importance\n• Most damage is caused by honeydew production on foliage\nand virus transmission\n• Aphids are important pests as vectors of potato viruses, such \nas the Potato Leaf Roll Virus, a serious disease affecting \npotatoes \nControl:\n• Use appropriate pesticides e.g. Thiamethoxam (ACTARA®)\nincorporate a sticker/spreader e.g. Zipper® or Agral 90®, \nImidacloprid 200g/L(NUPRID 200SC)\n• Control aphids in potato planted for seed production \n• Keep seed production areas separated from commercial \npotato production"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

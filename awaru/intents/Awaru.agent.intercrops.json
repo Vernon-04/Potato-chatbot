@@ -1,0 +1,37 @@
+{
+  "id": "d6bc62db-a9e6-4dc6-a81a-f61073529b6a",
+  "name": "Awaru.agent.intercrops",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Vegetables e.g. garlic, green onions, peas and beans, lettuce and spinach and amazingly, maize. To learn more, reply with veg101.",
+            "Herbs e.g. Thyme, camomile, basil, persley and calmint. To learn more reply with Herbs101.",
+            "Flowers e.g. Marigold, petunias, allysum and clover. To find out more, reply with flowers101."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

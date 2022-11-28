@@ -1,0 +1,35 @@
+{
+  "id": "acc251d0-f5b1-4752-8613-f6bf6148d181",
+  "name": "Awaru.agent.pests-cutworms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Identification:\n• The larvae of cutworms stay buried in the soil and cut \nstems during the night\n• The pest is destructive during dry weather\nDamages:\n• Cutworms feed on tubers and roots, boring a wide \nshallow hole\n• They are also serious pests of newly sprouted potato \nplants, and can leave great empty patches in a potato \nfield\nControl:\n• Ploughing and hand picking\n• Prepare field and destroy vegetation and weeds 10 –\n14 days before planting\n• Ploughing exposes caterpillars to predators and \ndesiccation by the sun\n• Flooding of the field for a few days before planting \ncan help kill cutworm caterpillars in the soil\n• Use appropriate insecticide e.g. Thiamethoxam \n(Actara®): used to drench when damage by cutworm is \neviden"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

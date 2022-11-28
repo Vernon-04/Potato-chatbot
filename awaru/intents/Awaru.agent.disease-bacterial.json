@@ -1,0 +1,35 @@
+{
+  "id": "bf53bd59-e753-421d-8613-6b39f111b67f",
+  "name": "Awaru.agent.disease-bacterial",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The disease is caused by the bacteria: Erwinia spp.\n• It enters the plant through wounds on leaves or stems near \nthe soil surface and young tubers\n• The disease development is favoured by high temperatures \nand humidity\n• The bacteria is spread by rain splash\n• In poorly drained fields, tubers decay\n• The infected tubers and soils acts as a source of inoculum in \nsubsequent years\nSymptoms:\n• Stems and leaves develop lesions which are water soaked, \ndark green and eventually develops to a soft rot with a foul \nodour\n• On tubers, reddish brown spots form at the lenticels\n• The inner parts of the tubers shows a soft rot and a creamy \nexudate is seen and may decay during transportation or \nstorage in poorly ventilated, high temperature and humidity\nControl:\n• Practice crop rotation with crops such as cereals\n• Use of healthy seed tubers\n• Improved field drainage\n• Store and transport tubers in dry, well ventilated conditions\n• Field hygiene\n• Crop rotation\n• Sorting before storage"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

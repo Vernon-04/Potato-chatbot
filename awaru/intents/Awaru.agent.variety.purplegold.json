@@ -1,0 +1,35 @@
+{
+  "id": "a0464db6-7040-4dd0-bf93-8be202111123",
+  "name": "Awaru.agent.variety.purplegold",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Purple Gold\n\n-Medium sized plant with purples flowers\n-Tubers are round and have dark purple skin with white flesh eyes\n-Has long tuber dormancy\n-Has excellent crisping quality\n-It is predominantly grown in Narok but can be grown in other areas\n-Moderate resistance to late blight, PLRV but susceptible to PVY\n-Tolerant to most soil borne diseases\n-It is resistant to greening and has good storability\n-Yields 10,000 – 14,000kg per acre\n-Uses: mashing, boiling, roasting and chip"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

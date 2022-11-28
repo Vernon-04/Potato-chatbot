@@ -1,0 +1,35 @@
+{
+  "id": "d3c9ca4d-d129-4242-bbda-4ac2ce14dbf1",
+  "name": "Awaru.agent.variety.kenya mpya",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Kenya Mpya\n\n•Tall plant (about 1 m) with good ground cover\n•Flowers are white\n•Tubers have Cream white skin color with pink \nshallow eyes\n•Optimal production altitude: 1,400 – 3,000 m\n•Resistant to Late Blight\n•Early tuberization: large size, oval/round \ntubers\n•Good storability \n•Short dormancy\n•Maturity Period: 3 – 3.5 month\n•Yield: 14,000 – 18,000kg per acre\n•Use: boiling, roasting, mashing, chips"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "5b41fe0d-03b2-4ae2-b972-a157f340ad8d",
+  "name": "Awaru.agent.variety.tigoni",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Tigoni\n• Tall variety with upright stem\n• Produces white flowers and tubers are long oval with white smooth skin\n• Has poor tuber storage and short tuber dormancy\n• Optimal production altitude: 1,800 – 2,600 m\n• Maturity Period: 3 – 4 month\n• Tolerant to Late Blight\n• Has high dry matter content\n• Yield: 14,000 – 18,000kg per acre\n• Use: chips, mashing, boiling, baking, roasting"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

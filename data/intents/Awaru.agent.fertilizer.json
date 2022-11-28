@@ -1,0 +1,35 @@
+{
+  "id": "e66f0036-a763-479d-8f3b-ea4ad0b72018",
+  "name": "Awaru.agent.fertilizer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The best fertilizer for growing potatoes is the one with a low nitrogen (N) content but a high Phosphorous (P) and Potash (K) content (K). These include; 1.\tDi-Ammonium Phosphate (DAP) 2.\tCalcium Ammonium Nitrate (CAN)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a4e2792c-576b-45c1-9c16-c252d5000b0c",
+  "name": "Awaru.agent.disease-earlyblight",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "• This is caused by a fungus: Altenaria solani\n• The fungus persist in debris of affected plants for \nseveral years\n• Early Blight thrives best under warm wet conditions \nSymptoms:\n• First, oval or angular dark brown to black “target” \nspots appear on leaflets\n• Usually, a narrow chlorotic zone is around the spot \nwhich fades into the normal green \n• Lowest, oldest leaves are infected first, and they droop\nand dry as the disease progresses and eventually fall off\nControl:\n• Use certified seeds \n• Good field sanitation by rouging\n• When using own seeds, carry out hot water treatment\n• Practice Crop Rotation\n• Destroy all infected crop residue\n• Spray with appropriate fungicides, such as\nAntracol WP70® (a.i. Propineb)\nDithane M45® (a.i. mancozeb)\nNando® (a.i. Fluazinam)\nRidomil Gold® (a.i. metalaxyl + mancozeb)\nMilraz WP76® (a.i. Propineb 70 % + Cymoxanil \n6 %)\nVictory 72WP® (a.i. metalaxyl + mancozeb)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

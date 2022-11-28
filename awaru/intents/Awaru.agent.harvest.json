@@ -1,0 +1,35 @@
+{
+  "id": "834fe953-3a24-4cd5-bda1-fcef820bfdad",
+  "name": "Awaru.agent.harvest",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "potatoes take 70 to 120 days to develop and mature, depending on the type of potato and the climatic conditions of a particular area. Observe the vines for signs of senescence (drying out). Harden the skin of the crop by cutting the stems two weeks before harvesting to allow potatoes to develop a thick skin.\n Use a fork jembe or your hands (if the soil is loose) when harvesting to prevent excessive damage to tubers."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

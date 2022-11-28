@@ -1,0 +1,35 @@
+{
+  "id": "8efd6d86-9e28-41bb-8fe6-053a6f999213",
+  "name": "Awaru.agent.conditions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "•\tRainfall: A well-distributed rainfall of between 850 and 1,200 mm is necessary during the growing season for potatoes. \n•\tAltitude: Potatoes are grown between 1,500 and 2,800 meters above sea level\n•\tTemperature: Potatoes thrive in cool climates, and their ideal temperature range is between 15 and 20 °C. The tuberization temperature is 15°C.\n•\tSoil: Free draining fertile medium loams are ideal.\n•\tThe ideal pH range for soil is 5.5 to 7.5."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

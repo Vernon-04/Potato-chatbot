@@ -1,0 +1,35 @@
+{
+  "id": "27698a52-c067-49f2-91ab-5c66125c1c69",
+  "name": "Awaru.agent.pests-mealybug",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Damages:\n• Mealybugs suck sap from plant phloem, \nreducing plant vigor \n• They excrete sticky honeydew and wax, \nwhich reduces plant and fruit quality, \nespecially when black sooty mold grows on \nthe honeydew. \nControl:\n• Pruning and destroying affected parts.\n• Removing and destroying heavily infested \nplants.\n• Ensuring soil fertility. In most cases healthy \nplants are able to withstand some \nmealybug attack"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

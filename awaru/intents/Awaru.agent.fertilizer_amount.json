@@ -1,0 +1,35 @@
+{
+  "id": "816bf760-dd6d-4584-a120-8db1a6a79b0c",
+  "name": "Awaru.agent.fertilizer_amount",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "• DAP at 200 kg per acre (about 1 kg of DAP for 25 m of \nfurrow) \n• On acidic soils, DSP/ TSP 80kg per acre \u0026 CAN 120kg \nper acre should be used, depending on the result of soil \nanalysis\nNote: \n• Use of excess nitrogen should be avoided as it encourages \nvegetative growth at the expense of tuber formation"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

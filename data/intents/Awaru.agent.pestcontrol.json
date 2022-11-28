@@ -1,0 +1,35 @@
+{
+  "id": "1b926c36-f565-432d-86cd-02b8bc05f3b2",
+  "name": "Awaru.agent.pestcontrol",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "•\tDrench the plants with IMAXI mixed at 15 ml per 20ltrs water to protect against wireworms and grubs.\n•\tCrop rotation and mulching are important in preventing build-up of pest populations\n•\tSpray JACKPOT at 12.5 ml/20ltrs water, repeated after 3 days to control aphids.\n•\talternate ALPHASIN and IMAXI, and ensure the block is free from bushy foliage around the perimeter\n•\tspray immediately with ROMECTIN 10ml and IMAXI 12.5ml in 20ltrs water after the Tuta Absoluta pest has attacked your crop."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

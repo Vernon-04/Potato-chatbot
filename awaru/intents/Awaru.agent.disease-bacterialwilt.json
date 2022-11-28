@@ -1,0 +1,35 @@
+{
+  "id": "ecde85fb-f75e-493b-b264-1938839a1403",
+  "name": "Awaru.agent.disease-bacterialwilt",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The disease is caused by a bacteria known as \nPseudomonas solanacearum\n• It is soil borne and the most serious disease which can \ndestroy an entire field\n• The bacteria survives in the soil for a long time and enters \ninto the host plant through wounds on the roots and the \nbase of stems\n• The disease is spread by infected tubers, crop residues, \ncontaminated surface water, contaminated soils, and tools \nSymptoms:\n• Affected plants wilt even when there is adequate \nmoisture in the soil\n• Wilting is rapid and wipe out the entire fields in few days\n• Slimy continuous white discharge emanate from the eyes \nof the affected tubers\nControl:\n• Use of certified seed\n• Practice Crop Rotation (5 – 7 years) roguing volunteer \npotato plants during rotation\n• Destruction of infected plant debris by burning\n• Avoid contaminating the field with soil from an affected \nfield\n• Avoid cutting of seeds as a way of multiplying seeds when \nhaving insufficient seed potato\n• Spot treatment with 10 % of Sodium hypochlorite \n(bleach)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

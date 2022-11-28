@@ -1,0 +1,35 @@
+{
+  "id": "91171fa7-ea16-49e6-830a-3d69005ef8c9",
+  "name": "Awaru.agent.pests",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "•\tPotato Tuber Moth \n•\tAphids \n•\tRoot-knot Nematode \n•\tSpider Mites\n•\tMillipedes \n•\tMealy Bugs \n•\tCutworms\n\nTo know more about these pests, reply with its name."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

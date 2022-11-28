@@ -1,0 +1,35 @@
+{
+  "id": "7702c6af-b230-4c17-902b-7347db437ddd",
+  "name": "Awaru.agents.pests-millipede",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Damages:\n• They tunnel into potato tubers\nControl:\n• Clear hiding places\n• Remove volunteer plants, crop residues, \ndecaying vegetation, dead leaves, grass, \ncompost piles, excess mulch or other \nsimilar debris. \n• Avoid planting wet areas"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

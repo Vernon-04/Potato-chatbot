@@ -1,0 +1,54 @@
+[
+  {
+    "id": "a2a57710-b68c-4e76-bcdf-66a55b2cf228",
+    "data": [
+      {
+        "text": "diseases affecting potatoes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cda2cb1a-9a9a-4816-8d5d-11307c4b2acc",
+    "data": [
+      {
+        "text": "potatoes disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76011391-e5af-4d1c-aff4-1cd5df3922a6",
+    "data": [
+      {
+        "text": "Which diseases affect potatoes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d838a35a-1c74-4aec-8d07-4efb29752e38",
+    "data": [
+      {
+        "text": "What are the major diseases of Potato in Kenya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

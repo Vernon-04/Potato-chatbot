@@ -1,0 +1,35 @@
+{
+  "id": "0ac7644e-385e-4eff-936f-df7f9ce02e75",
+  "name": "Awaru.agent.disease",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "•\tLate Blight  •\tBacterial Wilt  •\tEarly Blight  •\tBacterial Soft Rot  •\tPotato Leaf Roll Virus (PLRV)  •\tCommon Scab"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

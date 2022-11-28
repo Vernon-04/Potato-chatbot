@@ -1,0 +1,35 @@
+{
+  "id": "4245aea1-ad9e-4d7d-99a3-e3603ba40c2c",
+  "name": "Awaru.agent.variety.dutchrobjin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Dutch Robijn\n\n-Medium plant height with upright stem which produces white flowers\n-Tubers are round and red skin in colour with good storage and long dormancy\n-Yield: 14,000-16,000kg per acre"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

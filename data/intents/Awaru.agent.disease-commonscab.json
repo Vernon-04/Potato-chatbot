@@ -1,0 +1,35 @@
+{
+  "id": "35f79f8d-e781-4220-b7fb-f654dd49f55d",
+  "name": "Awaru.agent.disease-commonscab",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Affects the potato skin with pimple-like lesions.\n• It may not quantitatively affect yield but the quality \nof tubers which makes them less attractive in the \nmarket and their storability.\nSymptoms:\n• Lesions are a superficial cork-like layer (russet \nscab)\n• They may be erumpent or cushion-like (raised \nscab)\n• The lesions may extend deep into the tubers \n(pittedscab)\n• Lesions may be circular or irregular in shape -\nAffected potato skin tissue may be tan or brown\nControl:\n• Avoid planting scab-infected seed tubers\n• Increase the rotation period (2 years or more) for \npotato planting\n• High moisture levels at tuber formation and \nbulking reduces scab incidence\n• Do not reduce the acidity of the soil too much by \nliming as scab is reduced in acidic soils."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

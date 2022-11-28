@@ -1,0 +1,35 @@
+{
+  "id": "4825f9ca-f1b1-4d74-b94f-530830bfea27",
+  "name": "Awaru.agent.disease-lateblight",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This is a fungal disease which is favored by cool, cloudy \nwet conditions\n• It is one of the most destructive disease of potato\nSymptoms:\n• Water soaked spots on leaves which enlarge and turn \nbrown\n• Below the leaf, the fungus produces white mouldy growth\nseen clearly at the edge of the spot \n• The affected leaves wither, yet frequently remain attached to \nthe stem \nControl:\n• Resistant varieties, such as “Tigoni”, “Kenya Baraka”, \n“Roslin Eburu”, “Annet” \u0026 “Asante” are claimed to have \nsome resistance\n• Practice Crop Rotation with non-solanaceaous crops\n• Practice good field hygiene by rouging\n• Select only certified, disease-free seed potatoes\n• Spray with appropriate fungicides both protective \u0026 \ncurative, such as\n– Antracol WP70® (a.i. Propineb)\n– Dithane M45® (a.i. mancozeb)\n– Nando 500SC® (a.i. Fluazinam) Ridomil Gold \nMZ68® (a.i. metalaxyl + mancozeb)\n– Milraz WP76® (a.i. Propineb 70 % + Cymoxanil 6 %)\n– Victory 72WP® (a.i. metalaxyl + mancozeb)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

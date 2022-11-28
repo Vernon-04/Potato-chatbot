@@ -1,0 +1,35 @@
+{
+  "id": "41aa73f1-fe31-4334-a461-ac802b34fd48",
+  "name": "Awaru.agent.plant_water",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Potatoes require 850 – 1,200 mm rainfall \nduring the growing period\n• Low and fluctuating moisture contribute to \nscab, hollow heart, low dry matter \u0026 low \ntuber set\n• Production in Kenya is mainly rain fed and \nis timed to coincide with the 2 rainy \nseasons (long \u0026 short rains) \n• Some farmers use furrow irrigation while \nothers use sprinkler irrigation in their Potato \ncrop"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

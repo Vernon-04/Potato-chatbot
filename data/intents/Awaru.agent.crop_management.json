@@ -1,0 +1,35 @@
+{
+  "id": "2ff3b33b-0494-4fee-a0cf-aa9aa163c166",
+  "name": "Awaru.agent.crop_management",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ridging/Earthing-up\n• Ridge or earth-up the rows as the potatoes \ngrow(1st at when crop grows15-20cm tall \nwith weeding, then every after 2weeks for \n3times), with the final ridging done before \nplant starts to bloom\n• Do Not earth-up when the soil is wet to \navoid compaction\n• A well built hill helps to control weeds, \nprevents greening of tubers, reduces \nattack by the potato tuber moth\nUse disease-free or certified seed \n• Certified seed potatoes have 3 grades:\n– Size I: Small sized seed potatoes (25 – 35 mm \ndiameter)\n– Size II: Medium sized seed potatoes (35 – 45 mm \ndiameter, egg sized tubers). This is the preferred size \nsince it produces a good balance of big sized \u0026 small \nsized seed tubers\n• Number of sprouts should be at least 4\n• Seed tubers are kept in diffuse light to allow development of short strong sprouts: this is to ensure a  uniform stand\n• Production of basic seed is undertaken by KARI Tigoni\n• Bulking of basic seed is done by various organizations such as ADC Farm in Molo, Kisima Farm in Meru and selected individual farmers."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

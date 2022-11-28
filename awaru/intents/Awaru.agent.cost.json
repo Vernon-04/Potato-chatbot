@@ -1,0 +1,35 @@
+{
+  "id": "d63fc4c5-2e48-43e3-8320-353c208824e6",
+  "name": "Awaru.agent.cost",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "the farmer will require approximately Ksh 80,000 to start potato farming from planting to harvesting on an acre of land. Here is a breakdown.\n 1. The cost of planting potatoes will start with land preparation, which costs Ksh. 5000.\n 2. Buying 50kg certified seeds at Ksh. 2500 per bag.\n 3. Buying fungicides and insecticides, which cost around Ksh. 27500.\n 4. Total cost of applying fertilizer is around Ksh. 22000 on an acre piece of land.\n 5. There are other costs like transport, labour and weeding, which can cost up to 25,000 per acre."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

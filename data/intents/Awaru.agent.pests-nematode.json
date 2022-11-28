@@ -1,0 +1,35 @@
+{
+  "id": "ae36a2c6-72a3-486e-831b-031bebc7f3c4",
+  "name": "Awaru.agent.pests-nematode",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Identification:\n• Potato Cyst Nematodes (PCN) or potato root \nnematodes (Globodera rostochiensis and are 1-mm long \nroundworms belonging to the genus Globodera. \n• They live on the roots of plants of the Solanaceae family, \nsuch as potatoes and tomatoes\nSymptoms:\n• PCN cause growth retardation and, at very high \npopulation densities, damage to the roots and early \nsenescence of plants.\n• Reflect those of plants with an inefficient roots system i.e. \npoor growth, wilting during periods of water stress, \nearly senescence, reduced tuber size and reduced \ntuber yield up to levels in excess of 80%.\nControl:\n• Plant certified seed purchased from recognized, certified￾seed producers.\n• Avoid sharing equipment with other growers. The most \ncommon way of spreading PCN is in soil or on \nequipment.\n• Thoroughly clean all equipment.\n• Practice crop rotation.\n• Regularly examine your crops for patches of poor or \nyellow potato plants."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

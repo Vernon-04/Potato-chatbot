@@ -1,0 +1,35 @@
+{
+  "id": "955fc3fc-d452-4b15-8a14-f539690667a1",
+  "name": "Awaru.agents.pests-spidermite",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Identification:\n• To the naked eye, spider mites look like tiny moving dots but can be seen \nusing a hand lens\n• They live in colonies, mostly on the under-surface of the leaves and spin a \nsilk-like web\n• Adults have 8 legs and an oval body with two eye spots on the head end of the \nbody\n• Immatures are similar to adults except that newly hatched larvae have 6 legs\n• Eggs are spherical \u0026 translucent becoming cream colored before hatching\n• The pest is destructive during dry weather\nDamages:\n• Mites cause damage by sucking cell content from leaves\n• At first, the damage shows up as light dots on the leaves which at times take \na bronze colour\n• As the feeding continues, the leaves turn yellow and drop off\n• Often, leaves and stems are covered by a large amount of webbing\n• Damage is usually worse when compounded by water stress\nControl:\n• Grow healthy crops; avoid water and nutrient stress. Apply mulch and \nincorporate organic matter into the soil to improve the water holding capacity \nand reduce evaporation.\n• Keep perennial hedges such as pigeon peas, they are said to encourage \npredatory mites, which predate on spider mites.\n• Uproot and burn infested plants. This can be successful during the early \nstages of infestation when the mites concentrate on a few plants.\n• Keep the field free of weeds.\n• Spray Sulphur 80% w/w (KUMULUS DF®)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

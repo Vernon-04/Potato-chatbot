@@ -1,0 +1,35 @@
+{
+  "id": "811e9476-2a1d-4a87-930b-abd446937e99",
+  "name": "Awaru.agent.variety.shangi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Shangi\n\n\n-Highly prolific, versatile use\n-About 1m high, upright growth\n-Broad leaves, light in colour\n-Abundant flowers,\n-Oval tubers, uniform in grading, white flesh\n-Medium to deep eye with pink pigmentation\n-Very short dormancy\n-Matures in 3-4 months\n-Yield 30,000-40,000kg per acre\n-Moderately susceptible to late blight\n-Good for mashing, boiling, Roasting,chips\n-Altitude range 1500-2800m asl\nReleased varieties (2010 by KARI-Tigoni)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

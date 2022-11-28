@@ -1,0 +1,35 @@
+{
+  "id": "76056fb6-4b8e-4573-a336-32e64a91d95c",
+  "name": "Awaru.agent.herbs101",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thyme\nthyme is a good companion for potatoes because it is particularly good at attracting hoverflies/syrphidae which help reduce aphid numbers through predation. it can also spread to create good ground cover.\n\nChamomile\nIt attracts a range of beneficial insects, including hoverflies and predatory wasps. chamomile also increases their oil production.\n\nBasil\nBasil is a herb that can do well when grown alongside potatoes. It repels certain common pests, including thrips, flies and hornworms.\n\nParsley\nIt attracts certain beneficial insects, and acts as a trap crop for insects that feed on potato plants\n\nCalmint\nCatmint has deterrent properties for certain pests e.g. potato beetles."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

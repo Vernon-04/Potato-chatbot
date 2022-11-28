@@ -1,0 +1,35 @@
+{
+  "id": "57dc8006-b6fb-4deb-9a65-67d97112e9f4",
+  "name": "Awaru.agents.xcrops101",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Tomatoes\nThe problem with growing potatoes close to tomatoes is that pests and diseases spread easily between them.\n\nCarrots\ncarrots and potatoes do not share the same environmental needs because Carrots can cope with far drier conditions than potatoes. the problem is that the disruption involved in harvesting potatoes can damage and disrupt the carrot crop nearby.\n\nCucumbers and Squash\nThese can make your potatoes more susceptible to blight. These are also, ‘hungry’ plants, and can compete with the potato plants for water and nutrients.\n\nAsparagus\nasparagus, as a perennial crop, has an extensive root formation that will be damaged by the earth movement required in potato growing and harvesting.\n\n\nSunflowers\nSunflowers can have allelopathic effect, means they excrete chemicals which can inhibit seed germination and stunt the growth of certain other crops grown close by. Growing sunflowers near potatoes may result in smaller and misshapen potato tubers."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "104f31d2-5325-4dd3-b300-50d0f5d726d3",
+  "name": "Awaru.agent.plant_spacing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "• 20-30cm (intra row) and 60-90cm (inter row)\n• Planting depth is 10 cm and the sprouts should be placed \nfacing upwards \u0026 the seed covered by a layer of soil"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

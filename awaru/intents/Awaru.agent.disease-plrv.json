@@ -1,0 +1,35 @@
+{
+  "id": "0d5fc5a7-fc53-42c3-a798-50dcc7c17bd5",
+  "name": "Awaru.agent.disease-plrv",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "• This is an important potato disease which occurs \nin all potato growing areas\n• It is transmitted by aphids.\n• The virus is also spread through infected tubers \nand diseased volunteer plants\nSymptoms:\n• In plants infected through aphid transmission, the \napical leaves roll upwards and occasionally \nbecome pinkish in colour\n• In plants infected through use of infected seed \ntubers, the lower leaves roll upwards (after \nsprouting) and becomes spoon-like\n• Severely affected leaves develop a tubular shape \n• Plants are stunted and plants develop small \ntubers\n• If these tubers are used as seeds, plants are \nstunted and crop produces very low yields\nControl:\n• Use of chemicals to control aphids which can \ntransmit the virus to potato plants, such as \n- Nuprid 200 SC (a.i. Imidacloprid)\n- Karate 2.5WG (a.i. Lambda Cyhalothrin)\n• Use of virus-free seed tubers"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

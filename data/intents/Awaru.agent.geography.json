@@ -1,0 +1,35 @@
+{
+  "id": "834fc4b6-8c4e-43c0-a7fa-35be6b76946a",
+  "name": "Awaru.agent.geography",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The counties in Kenya which are best suited are; \n•\tBomet \n•\tBungoma\n•\tElgeiyo-Marakwet\n•\tKiambu\n•\tMeru\n•\tNakuru\n•\tNarok\n•\tNyandarua\n•\tNyeri\n•\tTaita-Taveta\n•\tTrans-Nzoia\n•\tUasin Gishu\n•\tWest Pokot."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

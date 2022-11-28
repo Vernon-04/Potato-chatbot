@@ -1,0 +1,35 @@
+{
+  "id": "4b01fbcc-cba1-4cf7-9e5d-8770b5ce522c",
+  "name": "Awaru.agent.variety.kerrspink",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Kerr’s Pink” (also known as “Mew Pink”)\n\n-Tall plant with white flowers\n-Tubers have oval shape with red skin\n-Tolerant to drought but susceptible to late blight\n-Maturity:2-3 months\n-Yields: 10,000-12,000kg per acre"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

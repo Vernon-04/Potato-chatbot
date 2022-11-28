@@ -1,0 +1,35 @@
+{
+  "id": "8bf17ddf-a5c6-4f7f-a618-611ca9ef3689",
+  "name": "Awaru.agent.cure",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "•\tPractice good Crop rotation for effective long term control.\n•\tensure an early spray of RODAZIM 12.5ml/20ltrs one week after emergence for less resistant variants such as the Shangi.\n•\tfollow this with a spray of STAGE at 10-15ml/20Ltr and repeat after 1 week to protect the crop from fungal infections later. \n•\tAdd 30ml/20ltr HARMONY to every spray of RODAZIM and STAGE to increase  the effectiveness of the fungicide."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

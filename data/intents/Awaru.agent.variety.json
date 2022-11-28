@@ -1,0 +1,35 @@
+{
+  "id": "f6e02f3a-306e-4d11-87dd-81c1bb4c412f",
+  "name": "Awaru.agent.variety",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "•\tTigoni\n•\tAsante\n•\tShangi\n•\tKenya Mpya\n•\tSherekea\n•\tPurple Gold\n•\tKerr’s Pink\n•\tDutch Robin"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
